@@ -1,0 +1,24 @@
+.myCard{
+    /* padding-top:50px; */
+    border: 1px solid black;
+    box-shadow: 0px 3px 20px rgba(52,52,52,0.1);
+    
+}
+.myCard:hover{
+    box-shadow: 0px 8px 30px rgba(199, 187, 187, 0.1);
+    transition: 0.8s all;
+}
+.myCardBody{
+    padding:20px 15px
+}
+hr{
+    padding-left:10px;
+    padding-right:10px;
+    padding-bottom:15px;
+}
+.myCardBody a{
+    color:red;
+    border:2px solid red;
+    border-radius: 20px;
+    padding:10px;
+}

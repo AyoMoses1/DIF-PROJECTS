@@ -1,0 +1,81 @@
+.about{
+    background-color: #4C7BE8F2;
+}
+.about a{
+    color:white;
+    text-decoration:none;
+    font-family: Regular 32px/43px Segoe UI;
+    font-size: larger;
+    padding: 10px;
+}
+.code{
+    padding-top:50px;
+}
+.community{
+    padding-bottom: 60px;
+    color:#51638BF2;
+}
+.button{
+    background-color:#4C7BE8F2;
+    font-family: Regular 35px/47px Segoe UI;
+    font-size: 20px;
+    color:#F4F4F5F2;
+    padding:10px 15px;
+}
+.button:hover{
+    text-decoration: none;
+    color:#F4F4F5F2 ;
+}
+.img1 img{
+    width:400px;
+    height:450px;
+    padding-top:40px;
+}
+.cont{
+    padding-left: 6%;
+    padding-right: 6%;
+}
+hr{
+    border:1px solid #4C7BE8;
+}
+.myCard img{
+    width:300px;
+    height:200px;
+    padding-top:40px;
+}
+.myCard{
+    color:#51638BF2;;
+}
+.last{
+    margin-top:100px;
+}
+.apply{
+    width:100%;
+    height:503px;
+    background-color:#4C7BE8F2 ;
+}
+.apply h1{
+    color:#ECECECF2;
+    margin-left:35%;
+    font-family:Regular 70px/94px Segoe UI;;
+} 
+.apply a{
+    background-color:white;
+    color:#4C7BE8F2;
+    margin-left:43%;
+}
+.apply a:hover{
+    text-decoration:none;
+    color:#4C7BE8F2;
+}
+.ap-margin{
+    padding-top:170px;
+}
+.nat{
+    margin-bottom: 50px;
+    
+}
+.par{
+    padding-left:10px;
+    padding-right:10px;
+}
